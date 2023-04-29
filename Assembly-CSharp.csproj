@@ -59,6 +59,7 @@
     <Compile Include="Assets/BunnyBall/Scripts/DeathBox.cs" />
     <Compile Include="Assets/BunnyBall/Scripts/Key.cs" />
     <Compile Include="Assets/BunnyBall/SimpleParticlePack/Scripts/ParticleTester.cs" />
+    <Compile Include="Assets/BunnyBall/Scripts/FollowPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
